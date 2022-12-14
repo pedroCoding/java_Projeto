@@ -32,7 +32,7 @@ public class conta {
 		}
 		
 		public void Saca() {
-			System.out.println("Saca");
+			System.out.println("Saque");
 		}
 		
 		public void Transferi() {
